@@ -22,3 +22,5 @@ DNS 设置的方式并不唯一，但也是大同小异，下面演示一下我�
 gitbeijing.com
 这样操作结束，当然还要稍微等几个小时给 DNS 扩散。晚上做完上面的操作，第二天早上访问 http://gitbeijing.com 已经可以访问到我的网站了，如果访问 http://www.gitbeijing.com 则可以跳转到 http://gitbeijing.com ，效果完美。
 
+
+ high-quality template --- html5up.net
